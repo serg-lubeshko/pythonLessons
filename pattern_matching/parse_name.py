@@ -23,6 +23,7 @@ def parse_name(value: str | tuple | dict | list):
         case _:
             return "Error"
 
+#example_2
 
 def parse_name2(value: str | tuple | dict | list):
     match value:
